@@ -9,6 +9,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println(hello());
     }
+    //Création de la méthode Hello World
 
     public static String hello() {
         return "Hello World!";
